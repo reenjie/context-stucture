@@ -1,5 +1,6 @@
 import React from "react";
-import { saveEnlistment, getStudentEnlistHistory } from "../Utils/context/uri";
+import { saveEnlistment, getStudentEnlistHistory } from "../Utils/uri";
+
 import { Button, TextField } from "../Components/Layouts/Package";
 const TestAccessUri = () => {
   //This will get the id's
